@@ -1,0 +1,5 @@
+RUN	api.Logout	logout	1691001573798	 	3.9.3
+USER	Logout	START	1691001574947
+REQUEST		Login access token	1691001574940	1691001634943	KO	Request timeout to api.landau.app/172.67.167.228:443 after 60000 ms
+ERROR	Logout: Failed to build request: No attribute named 'token' is defined 	1691001634951
+USER	Logout	END	1691001634954

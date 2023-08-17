@@ -1,0 +1,10 @@
+{
+  "simulation": "api.SearchAll",
+  "simulationId": "searchall-20230802174527894",
+  "start": 1690998329992,
+  "description": "Search  All",
+  "scenarios": ["Search keyword"],
+  "assertions": [
+
+  ]
+}

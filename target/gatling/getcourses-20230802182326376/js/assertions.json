@@ -1,0 +1,10 @@
+{
+  "simulation": "api.GetCourses",
+  "simulationId": "getcourses-20230802182326376",
+  "start": 1691000608132,
+  "description": "Get Courses",
+  "scenarios": ["Get courses"],
+  "assertions": [
+
+  ]
+}

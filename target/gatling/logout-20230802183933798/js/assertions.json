@@ -1,0 +1,10 @@
+{
+  "simulation": "api.Logout",
+  "simulationId": "logout-20230802183933798",
+  "start": 1691001574940,
+  "description": "",
+  "scenarios": ["Logout"],
+  "assertions": [
+
+  ]
+}

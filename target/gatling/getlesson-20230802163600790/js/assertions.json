@@ -1,0 +1,10 @@
+{
+  "simulation": "api.GetLesson",
+  "simulationId": "getlesson-20230802163600790",
+  "start": 1690994162290,
+  "description": "Get Lesson",
+  "scenarios": ["Watch Lesson Video"],
+  "assertions": [
+
+  ]
+}

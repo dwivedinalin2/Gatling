@@ -1,0 +1,10 @@
+{
+  "simulation": "api.GetCategory",
+  "simulationId": "getcategory-20230802184524495",
+  "start": 1691001926379,
+  "description": "",
+  "scenarios": ["Get all category"],
+  "assertions": [
+
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "simulation": "api.PaywithStripe",
+  "simulationId": "paywithstripe-20230802181057628",
+  "start": 1690999860676,
+  "description": "Pay with Stripe",
+  "scenarios": ["Pay with Stripe"],
+  "assertions": [
+
+  ]
+}
